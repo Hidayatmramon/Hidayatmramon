@@ -3,7 +3,11 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
-
+<p align="center"><img src="https://www.codewars.com/users/MSyamil/badges/large"><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSyamil&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSyamil&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSyamil&layout=compact&theme=vision-friendly-dark&langs_count=12"/><br />
+</p>
 
 
 
