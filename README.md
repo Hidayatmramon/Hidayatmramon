@@ -4,20 +4,12 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-<h3 align="center">A passionate Fullstack Web developer from Indonesia</h3>
+<h3 align="center">A dedicated Full-Stack Developer based in Bogor, Indonesia</h3>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hidayatmramon&label=Profile%20views&color=0e75b6&style=flat"
     alt="hidayatmramon"
   />
-</p>
-
-<p align="left">
-  <a
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=hidayatmramon"
-      alt="hidayatmramon"
-  /></a>
 </p>
 
 
