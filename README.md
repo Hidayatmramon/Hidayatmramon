@@ -1,8 +1,8 @@
 # Konichiwa 👋 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=akmalmaulanabasri&label=Profile%20views&color=0e75b6&style=flat"
-    alt="akmalmaulanabasri"
+    src="https://komarev.com/ghpvc/?username=hidayatmramon&label=Profile%20views&color=0e75b6&style=flat"
+    alt="hidayatmramon"
   />
 </p>
 
