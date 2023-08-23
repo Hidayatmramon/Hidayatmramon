@@ -12,6 +12,14 @@
   />
 </p>
 
+<p align="left">
+  <a
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=hidayatmramon"
+      alt="hidayatmramon"
+  /></a>
+</p>
+
 
   <img src="https://github-readme-stats.vercel.app/api?username=Hidayatmramon&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hidayatmramon&theme=vision-friendly-dark"/>
