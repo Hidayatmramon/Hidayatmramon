@@ -1,4 +1,9 @@
 # Konichiwa 👋 
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hidayatmramon&label=Profile%20views&color=0e75b6&style=flat"
@@ -6,9 +11,6 @@
   />
 </p>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Hidayatmramon&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hidayatmramon&theme=vision-friendly-dark"/>
