@@ -1,6 +1,6 @@
 # Hello i'm Ramon Hidayat 👋 
 
-![Banner Tech](assets/banner-tech.png)
+![Banner Tech](banner-tech.png)
 
 
 <p align="center">
